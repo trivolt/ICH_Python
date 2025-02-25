@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Ivan",
+        "lastName": "Petrov",
+        "dateOfBirth": "2017-03-15",
+        "iban": "DE1234 0000 0000 01011 333"
+    },
+    {
+        "firstName": "Anna",
+        "lastName": "Smith",
+        "dateOfBirth": "1995-05-20",
+        "iban": "FR7630006000011234567890189"
+    },
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "dateOfBirth": "2000-01-01",
+        "iban": "DE89370400440532013000"
+    },
+    {
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "dateOfBirth": "2010-12-30",
+        "iban": "INVALID_IBAN"
+    }
+]
